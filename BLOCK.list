@@ -1,8 +1,8 @@
-DOMAIN,app-measurement.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,googleads.g.doubleclick-cn.net
-DOMAIN,goblin.hupu.com
+DOMAIN app-measurement.com
+DOMAIN firebase-settings.crashlytics.com
+DOMAIN firebaselogging-pa.googleapis.com
+DOMAIN googleads.g.doubleclick-cn.net
+DOMAIN goblin.hupu.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN,ios.bugly.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
