@@ -1,16 +1,16 @@
-DOMAIN app-measurement.com
-DOMAIN firebase-settings.crashlytics.com
-DOMAIN firebaselogging-pa.googleapis.com
-DOMAIN googleads.g.doubleclick-cn.net
-DOMAIN goblin.hupu.com
-DOMAIN-SUFFIX shuzilm.cn
-DOMAIN ios.bugly.qq.com
-DOMAIN-SUFFIX gdt.qq.com
-DOMAIN-SUFFIX mdt.qq.com
-DOMAIN ulogs.umengcloud.com
-DOMAIN-SUFFIX umeng.com
-DOMAIN api-access.pangolin-sdk-toutiao-b.com
-DOMAIN api-access.pangolin-sdk-toutiao1.com
-DOMAIN sf3-fe-tos.pglstatp-toutiao.com
-DOMAIN toblog.ctobsnssdk.com
-DOMAIN-SUFFIX pangolin-sdk-toutiao.com
+DOMAIN,app-measurement.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,googleads.g.doubleclick-cn.net
+DOMAIN,goblin.hupu.com
+DOMAIN-SUFFIX,shuzilm.cn
+DOMAIN,ios.bugly.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN,ulogs.umengcloud.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+DOMAIN,api-access.pangolin-sdk-toutiao1.com
+DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+DOMAIN,toblog.ctobsnssdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
